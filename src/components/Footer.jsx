@@ -40,22 +40,6 @@ const Footer = () => {
               </a>
             ))}
       </motion.div>
-        
-        <div className="flex flex-col md:flex-row justify-center items-center mb-8 space-y-2 md:space-y-0 md:space-x-6">
-          <div className="flex items-center">
-            <span className="mr-2">📞</span>
-            <span>+91 7356977963</span>
-          </div>
-          <div className="flex items-center">
-            <span className="mr-2">✉️</span>
-            <span>SreeraguACCA@gmail.com</span>
-          </div>
-          <div className="flex items-center">
-            <span className="mr-2">💼</span>
-            <span>linkedin.com/in/SreeragUnniACCA/</span>
-          </div>
-        </div>
-        
         <p className="text-sm opacity-80">© 2025 Sreerag Unni. All Rights Reserved.</p>
       </div>
     </footer>
